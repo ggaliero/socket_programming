@@ -1,0 +1,6 @@
+Rank  Title                             Box office    
+1     Hansel and Gretel: Witch Hunters  $19,690,956  
+2     Mama                              $13,088,145
+3     Zero Dark Thirty                  $9,700,132  
+4     Silver Linings Playbook           $9,444,039
+5     Parker                            $7,008,222
